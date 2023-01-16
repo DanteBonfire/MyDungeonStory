@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: liquibase/patches/001-create-weapon-table.yaml
